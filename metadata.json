@@ -1,0 +1,7 @@
+{
+  "name": "Bravery - Store Locator",
+  "description": "A sophisticated interactive store locator with real-time mapping, smart geocoding via Gemini AI, and a secure administration dashboard for managing points of sale.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
